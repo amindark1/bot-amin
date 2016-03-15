@@ -227,7 +227,9 @@ function create_config( )
     "admin",
     "addplug",
     "send",
-    "pluagins"
+    "pluagins",
+    "ban",
+    "ing"
     },
     sudo_users = {153309324},--Sudo users
     disabled_channels = {},
